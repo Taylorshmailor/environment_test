@@ -2,6 +2,10 @@
 
 one:
   title: MyString
+  author: MyString
+  published_date: 2022-02-02
 
 two:
   title: MyString
+  author: MyString
+  published_date: 2022-02-02
