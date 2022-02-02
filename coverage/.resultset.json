@@ -1,38 +1,33 @@
 {
   "RSpec": {
     "coverage": {
-      "/csce431/Projects/csce431/test_app/spec/unit/unit_spec.rb": {
+      "/csce431/Projects/csce431/test_app/spec/feature/integration_spec.rb": {
         "lines": [
           null,
           1,
           null,
           1,
           1,
-          5,
-          null,
-          null,
           1,
           1,
-          null,
-          null,
+          1,
           1,
           1,
           0,
-          null,
-          null,
-          1,
-          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           null,
           null,
-          1,
-          1,
-          0,
           null,
           null,
-          1,
-          1,
-          0,
+          null,
+          null,
+          null,
           null,
           null
         ]
@@ -389,6 +384,87 @@
           null
         ]
       },
+      "/csce431/Projects/csce431/test_app/app/controllers/books_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null
+        ]
+      },
+      "/csce431/Projects/csce431/test_app/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
       "/csce431/Projects/csce431/test_app/app/models/book.rb": {
         "lines": [
           1,
@@ -407,6 +483,6 @@
         ]
       }
     },
-    "timestamp": 1643833795
+    "timestamp": 1643834354
   }
 }
